@@ -1,0 +1,15 @@
+.redirect-anchor {
+  font-size: 1rem;
+  position: fixed;
+  right: 1rem;
+  top: 4rem;
+  background-color: #008b8b;
+  padding: 1rem;
+  border-radius: 1rem;
+  z-index: 99999;
+  color: #f0f8ff;
+}
+
+.redirect-anchor:hover {
+  background-color: rgb(4, 134, 134);
+}
