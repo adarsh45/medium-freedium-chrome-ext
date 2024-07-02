@@ -9,7 +9,7 @@
     {
       "js": ["content.js"],
       "css": ["style.css"],
-      "matches": ["https://medium.com/*"]
+      "matches": ["https://medium.com/*", "https://*.medium.com/*"]
     }
   ],
   "icons": {
